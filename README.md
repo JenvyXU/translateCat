@@ -3,5 +3,6 @@
 - 可以保留10条最近翻译记录
 
 ### 扫码打开小程序
-![翻译喵]](https://github.com/JenvyXU/translateCat/blob/master/logo.jpg)
+
+![翻译喵](https://github.com/JenvyXU/translateCat/blob/master/logo.jpg)
 
