@@ -1,0 +1,32 @@
+/* pages/change/change.wxss */
+.container{
+  background: #f8f8f8;
+}
+.title{
+  background: #fff;
+  padding: 20rpx 40rpx;
+  color: #8995a1;
+  font-size: 28rpx;
+}
+
+.item{
+  padding-left: 40rpx;
+  background-color: #fff;
+ 
+}
+.item-inner{
+  display: flex;
+  align-items: center;
+  border-top: 1px solid #ececec;
+  padding: 20rpx 40rpx 20rpx 0;
+}
+
+.item .txt{
+  flex: 1;
+  color: #7A7E83;
+}
+.item .iconfont{
+  margin-left: auto;
+  font-size: 42rpx;
+  color: #7A7E83;
+}

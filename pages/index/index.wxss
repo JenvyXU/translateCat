@@ -1,0 +1,59 @@
+.change, .text-title{
+  font-size: 30rpx;
+  color: #8995a1;
+  padding: 20rpx 40rpx;
+  display: flex;
+  align-items: center;
+  background-color:#f5fafe;
+}
+.text-title{
+  padding: 20rpx 0;
+}
+.change .transTo{
+  font-weight: bold;
+}
+.change .icon-down{
+  font-size: 20rpx;
+}
+.input-area,.text-area{
+  height: 50%;
+}
+.input-area{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.input-area .textarea-wrap{
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+.input-area textarea{
+  background-color: #fff;
+  font-size: 40rpx;
+  padding: 20rpx;
+  flex-grow: 1;
+  width: calc(100% - 80rpx);
+  margin: 0 40rpx;
+  box-sizing: border-box;
+}
+.input-area .placeHolderStyle{
+  color: rgba(0, 0, 0, .2)
+}
+.input-area .icon-close{
+  font-size: 40rpx;
+  position: absolute;
+  right: 50rpx;
+  bottom:0;
+  color: rgba(0,0,0,.3);
+  z-index: 10;
+}
+.text-area {
+  background-color: #fff;
+  margin: 0 40rpx 40rpx 40rpx;
+}
+
+.text-area .text-result {
+  padding: 20rpx;
+  font-size: 40rpx;
+}

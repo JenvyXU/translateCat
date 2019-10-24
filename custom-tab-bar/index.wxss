@@ -1,0 +1,24 @@
+.tabBar{
+  background: #ffffff;
+}
+.itemContainer{
+  display: flex;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+.itemContainer .tabItem{
+  font-size: 24rpx;
+  padding: 10rpx;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.tabItem .icon{
+  height: 50rpx;
+  width: 50rpx;
+  margin-bottom: 10rpx;
+}
+.itemHover{
+  background: rgba(0, 0, 0, 0.1);
+}
