@@ -4,5 +4,5 @@
 
 ### 扫码打开小程序
 
-![翻译喵](https://github.com/JenvyXU/translateCat/blob/master/logo.jpg)
+![翻译喵](https://github.com/jenvyxu/translate-cat/blob/master/logo.jpg)
 
